@@ -21,10 +21,6 @@ The ASCON-128 algorithm ensures both encryption and data authenticity through a 
 
 4. **Finalization**: The algorithm generates a 128-bit tag that accompanies the ciphertext. This tag is used for verifying the authenticity and integrity of the encrypted data.
 
-   
-![ASCON-128 Algorithm](https://www.researchgate.net/publication/358243540/figure/fig5/AS:1121603580637185@1644422540196/Ascon-128-Encryption-35.png))
-
-
 ## Project Structure
 
 - **/SRC/RTL**: Contains the compiled files.
